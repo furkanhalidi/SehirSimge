@@ -13,6 +13,10 @@
 		1F55070E2794242300B6F9F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F55070C2794242300B6F9F2 /* Main.storyboard */; };
 		1F5507102794242500B6F9F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F55070F2794242500B6F9F2 /* Assets.xcassets */; };
 		1F5507132794242500B6F9F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F5507112794242500B6F9F2 /* LaunchScreen.storyboard */; };
+		1F55071E2794245800B6F9F2 /* kremlin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1F55071A2794245800B6F9F2 /* kremlin.jpg */; };
+		1F55071F2794245800B6F9F2 /* greatwall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1F55071B2794245800B6F9F2 /* greatwall.jpg */; };
+		1F5507202794245800B6F9F2 /* colossium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1F55071C2794245800B6F9F2 /* colossium.jpg */; };
+		1F5507212794245800B6F9F2 /* tajmahal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1F55071D2794245800B6F9F2 /* tajmahal.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		1F55070F2794242500B6F9F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F5507122794242500B6F9F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F5507142794242500B6F9F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F55071A2794245800B6F9F2 /* kremlin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kremlin.jpg; path = ../../../../Downloads/kremlin.jpg; sourceTree = "<group>"; };
+		1F55071B2794245800B6F9F2 /* greatwall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = greatwall.jpg; path = ../../../../Downloads/greatwall.jpg; sourceTree = "<group>"; };
+		1F55071C2794245800B6F9F2 /* colossium.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = colossium.jpg; path = ../../../../Downloads/colossium.jpg; sourceTree = "<group>"; };
+		1F55071D2794245800B6F9F2 /* tajmahal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tajmahal.jpg; path = ../../../../Downloads/tajmahal.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +64,10 @@
 		1F5507052794242300B6F9F2 /* SehirSimge */ = {
 			isa = PBXGroup;
 			children = (
+				1F55071C2794245800B6F9F2 /* colossium.jpg */,
+				1F55071B2794245800B6F9F2 /* greatwall.jpg */,
+				1F55071A2794245800B6F9F2 /* kremlin.jpg */,
+				1F55071D2794245800B6F9F2 /* tajmahal.jpg */,
 				1F5507062794242300B6F9F2 /* AppDelegate.swift */,
 				1F5507082794242300B6F9F2 /* SceneDelegate.swift */,
 				1F55070A2794242300B6F9F2 /* ViewController.swift */,
@@ -125,6 +137,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F55071F2794245800B6F9F2 /* greatwall.jpg in Resources */,
+				1F55071E2794245800B6F9F2 /* kremlin.jpg in Resources */,
+				1F5507202794245800B6F9F2 /* colossium.jpg in Resources */,
+				1F5507212794245800B6F9F2 /* tajmahal.jpg in Resources */,
 				1F5507132794242500B6F9F2 /* LaunchScreen.storyboard in Resources */,
 				1F5507102794242500B6F9F2 /* Assets.xcassets in Resources */,
 				1F55070E2794242300B6F9F2 /* Main.storyboard in Resources */,

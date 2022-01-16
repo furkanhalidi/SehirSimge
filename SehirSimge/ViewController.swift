@@ -11,7 +11,6 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
     
     var landmarkNames = [String]()
     var landmarkImages = [UIImage]()
-    
 
     @IBOutlet weak var tableView: UITableView!
     
